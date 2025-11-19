@@ -9,7 +9,7 @@
 /**
  * Custom blocks
  */
-//% weight=100 color=#4a4a4a icon=""
+//% weight=100 color=#4f4f4f icon=""
 namespace led2 {
     /**
      * TODO: describe your function here
