@@ -10,7 +10,7 @@
  * Custom blocks
  */
 //% weight=100 color=#4f4f4f icon=""
-namespace led2 {
+namespace commands {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 5
