@@ -4,17 +4,12 @@
 * https://makecode.microbit.org/blocks/custom adresinden daha fazla bilgi edinin
 */
 
-enum MyEnum {
-    //% block="one"
-    One,
-    //% block="two"
-    Two
-}
+
 
 /**
  * Custom blocks
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#4a4a4a icon=""
 namespace led2 {
     /**
      * TODO: describe your function here
@@ -23,16 +18,7 @@ namespace led2 {
      * @param e describe parameter here
      */
     //% block
-    export function foo(n: number, s: string, e: MyEnum): void {
-        // Add code here
-    }
-
-    /**
-     * TODO: describe your function here
-     * @param value describe value here, eg: 5
-     */
-    //% block
-    export function fib(value: number): number {
-        return value <= 1 ? value : fib(value -1) + fib(value - 2);
+    export function command(text: string): void {
+        
     }
 }
