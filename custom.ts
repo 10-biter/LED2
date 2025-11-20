@@ -9,7 +9,7 @@
 /**
  * Custom blocks
  */
-//% weight=100 color=#4f4f4f icon=""
+//% weight=100 color=#4f4f4f icon="\f0ca"
 namespace commands {
     /**
      * TODO: describe your function here
